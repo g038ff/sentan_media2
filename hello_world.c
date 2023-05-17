@@ -1,4 +1,6 @@
 #include <stdio.h>
-int(main){
+
+int main(void){
 printf(hello_world);
+printf(My hobby is touring);
 }
